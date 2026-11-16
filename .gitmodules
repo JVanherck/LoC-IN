@@ -1,0 +1,6 @@
+[submodule "3rdparty/DeviceFactory"]
+	path = 3rdparty/DeviceFactory
+	url = https://github.com/JVanherck/DeviceFactory.git
+[submodule "render_match/3rdparty/xfeat_cpp"]
+	path = render_match/3rdparty/xfeat_cpp
+	url = https://github.com/udaysankar01/xfeat_cpp.git
